@@ -1,0 +1,5 @@
+id,name,roles,groups
+john@xyz.com,John Doe,user,"Some Group,Other Group"
+anne@xyz.com,Anne Smith,admin,Another Group
+martin@xyz.com,Martin Lee,"user,metadata_manager",Another Group
+bob@xyz.com,Bob Feldman,user,

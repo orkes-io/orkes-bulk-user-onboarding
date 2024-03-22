@@ -1,0 +1,11 @@
+{
+  "name": "orkes-bulk-user-onboarding",
+  "version": "1.0.0",
+  "description": "This utility calls Orkes APIs to bulk onboard users by loading details from a CSV file.",
+  "main": "index.js",
+  "author": "Yong Sheng Tan <yong@orkes.io>",
+  "type": "module",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
